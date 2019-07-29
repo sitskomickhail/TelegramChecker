@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelegramChecker", "TelegramChecker\TelegramChecker.csproj", "{DE83C447-7596-430E-9D10-6AE699CB7E1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelegramChecker.DAL", "TelegramChecker.DAL\TelegramChecker.DAL.csproj", "{B868C9A5-FF66-4B11-BD9A-99EBE0585C4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE83C447-7596-430E-9D10-6AE699CB7E1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE83C447-7596-430E-9D10-6AE699CB7E1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE83C447-7596-430E-9D10-6AE699CB7E1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE83C447-7596-430E-9D10-6AE699CB7E1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B868C9A5-FF66-4B11-BD9A-99EBE0585C4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B868C9A5-FF66-4B11-BD9A-99EBE0585C4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B868C9A5-FF66-4B11-BD9A-99EBE0585C4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B868C9A5-FF66-4B11-BD9A-99EBE0585C4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0F31278-E95E-4DAF-A71F-ABA9A385FCFF}
+	EndGlobalSection
+EndGlobal

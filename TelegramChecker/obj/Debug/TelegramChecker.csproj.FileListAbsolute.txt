@@ -1,0 +1,15 @@
+E:\Projects\TelegramGroupChecker\TelegramChecker\bin\Debug\TelegramChecker.exe.config
+E:\Projects\TelegramGroupChecker\TelegramChecker\bin\Debug\TelegramChecker.exe
+E:\Projects\TelegramGroupChecker\TelegramChecker\bin\Debug\TelegramChecker.pdb
+E:\Projects\TelegramGroupChecker\TelegramChecker\obj\Debug\TelegramChecker.csprojAssemblyReference.cache
+E:\Projects\TelegramGroupChecker\TelegramChecker\obj\Debug\MainWindow.g.cs
+E:\Projects\TelegramGroupChecker\TelegramChecker\obj\Debug\App.g.cs
+E:\Projects\TelegramGroupChecker\TelegramChecker\obj\Debug\TelegramChecker_MarkupCompile.cache
+E:\Projects\TelegramGroupChecker\TelegramChecker\obj\Debug\TelegramChecker_MarkupCompile.lref
+E:\Projects\TelegramGroupChecker\TelegramChecker\obj\Debug\MainWindow.baml
+E:\Projects\TelegramGroupChecker\TelegramChecker\obj\Debug\TelegramChecker.g.resources
+E:\Projects\TelegramGroupChecker\TelegramChecker\obj\Debug\TelegramChecker.Properties.Resources.resources
+E:\Projects\TelegramGroupChecker\TelegramChecker\obj\Debug\TelegramChecker.csproj.GenerateResource.cache
+E:\Projects\TelegramGroupChecker\TelegramChecker\obj\Debug\TelegramChecker.csproj.CoreCompileInputs.cache
+E:\Projects\TelegramGroupChecker\TelegramChecker\obj\Debug\TelegramChecker.exe
+E:\Projects\TelegramGroupChecker\TelegramChecker\obj\Debug\TelegramChecker.pdb
